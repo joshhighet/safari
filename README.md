@@ -1,2 +1,3 @@
 # safari
- always NAT to the WAN
+
+scripts for doing an internet rodeo
